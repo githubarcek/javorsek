@@ -1,0 +1,48 @@
+params:
+  color: rgb(255,255,255)           # Any color in CSS syntax
+  width: 70rem          # Any length in CSS syntax
+  footer: >-            # A hardcoded space is needed before each html element
+    2022 Javoršek d.o.o.  <br><a href=/pravno_obvestilo/>Pravno obvestilo</a>
+  rss: 
+  summaries: false      # Set to true to show summaries of posts on homepage
+  divider: false          # Set to false to remove divider below posts on homepage
+  schema: false         # Set to true to add Schema.org metadata
+  opengraph: false      # Set to true to add Open Graph metadata
+  twittercards: false   # Set to true to add Twitter Cards metadata
+  utterances:
+    repo:               # Set to Utterances repo URL to add Utterances comments
+    issueterm: pathname
+    theme: github-light
+  netlify:
+    honeypot: false     # Set to true to add honeypot field in contact form
+    recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  # css:                # Uncomment to add custom CSS from a list of files
+  #   - css/foo.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from a list of files
+  #   - js/foo.js
+  #   - bar.js
+# https://www.w3schools.com/howto/howto_css_images_side_by_side.asp
+
+menu:
+  nav:
+#  - name: "Javoršek d.o.o."
+#    url: "http://localhost:1313/"
+#    weight: 1
+    
+  - name: "O nas"
+    url: "/o_nas/"
+    weight: 5
+    
+  - name: "Izdelki"
+    url: "/nasi_izdelki/"
+    weight: 1
+    
+  - name : "Storitve"
+    url : "/storitve/"
+    weight : 2
+    
+  - name : "Kontakt"
+    url : "/kontakt/"
+    weight : 5
+    

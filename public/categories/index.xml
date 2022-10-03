@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://www.javorsek.si/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Javoršek d. o. o.</title>
+    <link>http://www.javorsek.si/categories/</link>
+    <description>Recent content in Categories on Javoršek d. o. o.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>si-Sl</language>
+    <atom:link href="http://www.javorsek.si/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.javorsek.si/contact/o_podjetju/</link>
+      <guid>http://www.javorsek.si/contact/o_podjetju/</guid>
+      <description>&lt;h2 id=&#34;o-podjetju&#34;&gt;O podjetju&lt;/h2&gt;
+&lt;p&gt;&lt;figure class=&#34;slika_l&#34;&gt;
+    &lt;img src=&#34;http://www.javorsek.si/slike/Prospekt1-a-1024x1022.jpg&#34; width=&#34;280&#34;/&gt; 
+&lt;/figure&gt;
+
+Smo manjše obrtno podjetje z dolgoletno družinsko tradicijo in delujemo na področju strojegradnje, orodjarstva in mehanske obdelave kovin.
+Naši standardni izdelki so pnevmatične vpenjalne gredi in osi, pnevmatične vpenjalne glave namenjene vpenjanju papirnih in drugih zvitkov. Izdelujemo tudi jeklene fleksotiskarske valje v standardni izvedbi in v izvedbi »zračnih« valjev za poliesterske srajčke in Ni sleeve. Poleg tega izdelujemo stroje za predelavo papirja, dekupirne žage, specialne sitotiskarske stroje, perforatorje in druge stroje po lastnih ali načrtih kupcev. Poleg kompletnih strojev izdelujemo tudi razne strojne dele, vršimo različne mehanske obdelave, izdelujemo orodja za predelavo pločevine in različne kovinske galanterijske izdelke.
+
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+
+&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+  </channel>
+</rss>

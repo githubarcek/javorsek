@@ -1,0 +1,4 @@
+baseURL = "http://www.javorsek.si/"
+languageCode = "si-Sl"
+title = "Javoršek d. o. o."
+theme = "flex_master"
